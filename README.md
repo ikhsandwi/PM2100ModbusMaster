@@ -3,23 +3,23 @@ Wiring :
 
 PM2100    <==>    Modul RS485
 
-  A       <==>        A
+      A       <==>        A
 
-  B       <==>        B
+      B       <==>        B
   
 Modul RS485 <==>  ESP32 Board
 
-VCC     <==>    VIN
+    VCC     <==>    VIN
 
-GND     <==>    GND
+    GND     <==>    GND
 
-DI      <==>    TX
+    DI      <==>    TX
 
-RO      <==>    RX
+    RO      <==>    RX
 
-DE      <==>    18
+    DE      <==>    18
 
-RE      <==>    19
+    RE      <==>    19
 
 Read data address
 
