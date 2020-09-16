@@ -1,8 +1,9 @@
 /*
-Author : Ikhsan Dwi
-Version : 1.1
-Create : 9-09-2020
-update : 16-09-2020
+File     : RS485_HalfDuplex_PM2100_antares.ino
+Author   : Ikhsan Dwi
+Version  : 1.1
+Create   : 9-09-2020
+last update : 16-09-2020
 */
 
 /*  Wiring
